@@ -12,19 +12,19 @@ Boton.addEventListener("mouseup", () => {
 })
 
 const elementos = [
-    "https://archive.org/details/1_20251127_20251127_1225/1.mp4",
-    "https://archive.org/details/1_20251127_20251127_1225/video10.mp4",
-    "https://archive.org/details/1_20251127_20251127_1225/video11.mp4",
-    "https://archive.org/details/1_20251127_20251127_1225/video12.mp4",
-    "https://archive.org/details/1_20251127_20251127_1225/video13.mp4",
-    "https://archive.org/details/1_20251127_20251127_1225/video2.mp4",
-    "https://archive.org/details/1_20251127_20251127_1225/video3.mp4",
-    "https://archive.org/details/1_20251127_20251127_1225/video4.mp4",
-    "https://archive.org/details/1_20251127_20251127_1225/video5.mp4",
-    "https://archive.org/details/1_20251127_20251127_1225/video6.mp4",
-    "https://archive.org/details/1_20251127_20251127_1225/video7.mp4",
-    "https://archive.org/details/1_20251127_20251127_1225/video8.mp4",
-    "https://archive.org/details/1_20251127_20251127_1225/video9.mp4",
+    "https://archive.org/download/1_20251127_20251127_1225/1.mp4",
+    "https://archive.org/download/1_20251127_20251127_1225/video10.mp4",
+    "https://archive.org/download/1_20251127_20251127_1225/video11.mp4",
+    "https://archive.org/download/1_20251127_20251127_1225/video12.mp4",
+    "https://archive.org/download/1_20251127_20251127_1225/video13.mp4",
+    "https://archive.org/download/1_20251127_20251127_1225/video2.mp4",
+    "https://archive.org/download/1_20251127_20251127_1225/video3.mp4",
+    "https://archive.org/download/1_20251127_20251127_1225/video4.mp4",
+    "https://archive.org/download/1_20251127_20251127_1225/video5.mp4",
+    "https://archive.org/download/1_20251127_20251127_1225/video6.mp4",
+    "https://archive.org/download/1_20251127_20251127_1225/video7.mp4",
+    "https://archive.org/download/1_20251127_20251127_1225/video8.mp4",
+    "https://archive.org/download/1_20251127_20251127_1225/video9.mp4",
 
     
 ];
