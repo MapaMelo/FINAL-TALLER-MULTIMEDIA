@@ -1,0 +1,76 @@
+.titulo-centrado {
+    position: absolute;
+    top: 20%;
+    left: 32%;
+    font-family: "Playwrite CZ", cursive;
+    font-size: 500%;      
+    font-weight: 350;      
+    color: rgb(0, 0, 0);
+    text-shadow: 3px 3px 10px rgb(0, 0, 0);  
+}
+
+.Flecha {
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    width: 5%;         
+    cursor: pointer;    
+    transition: transform 0.2s ease; 
+}
+
+.Flecha:hover {
+    transform: scale(1.1); 
+}
+
+#Boton {
+    width: 65px;
+    height: 20px;
+    background-color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-radius: 25%;
+    position: absolute;
+    top: 53%;
+    left: 47%;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0);  
+}
+
+#Boton:hover {
+    width: 75px;
+    height: 30px;
+    top: 52.5%;
+    left: 46.5%;
+}
+
+
+.elementosCreados {
+    position: absolute;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+audio.elementosCreados {
+    width: 200px;
+    height: 35px;
+}
+
+img.elementosCreados {
+    width: 180px;
+    height: auto;
+}
+
+
+video.elementosCreados {
+    width: 220px !important;
+    height: auto !important;
+}
+
+#zonaProhibidaCentro {
+    position: absolute;
+    top: 25%;   
+    left: 30%;
+    width: 35%;
+    height: 40%;
+    pointer-events: none;
+    background: rgba(255, 255, 255, 0);
+}

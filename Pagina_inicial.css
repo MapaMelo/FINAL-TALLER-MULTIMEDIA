@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("Inicio/Escritorio - fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.item {
+    position: absolute;
+    display: inline-block;
+}
+
+.carta-item {
+    left: 10%;
+    top: 50%;
+}
+
+.guitarra-item {
+    left: 65%;
+    top: 20%;
+}
+
+.medalla-item {
+    left: 43%;
+    top: 20%;
+}
+
+.carta {
+    width: 180px;
+    transform: rotate(-12deg);
+}
+
+.guitarra {
+    width: 150px;
+    transform: rotate(20deg);
+}
+
+.medalla {
+    width: 160px;
+    transform: rotate(-8deg);
+}
+
+.label {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 24px;
+    font-family: "Playwrite CZ", cursive;
+    font-weight: 300;
+    text-shadow: 2px 2px 5px black;
+    opacity: 0;
+    transition: opacity 0.3s;
+    pointer-events: none;
+}
+
+.item:hover img {
+    filter: blur(4px);
+    transform: rotate(0deg) scale(1.05);
+    transition: 0.3s;
+}
+
+.item:hover .label {
+    opacity: 1;
+}
+
+.item img {
+    transition: 0.3s;
+    cursor: pointer;
+}
