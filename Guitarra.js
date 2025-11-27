@@ -90,7 +90,7 @@ function crearElemento() {
     else if (rutaBaja.endsWith(".mp4")){
         nuevo = document.createElement("video");
         nuevo.src = ruta;
-        nuevo.muted = true;
+        nuevo.muted = false;
         nuevo.controls = false;
     }
     else if (rutaBaja.endsWith(".jpg") || rutaBaja.endsWith(".jpeg") || rutaBaja.endsWith(".png") || rutaBaja.endsWith(".webp")) {
