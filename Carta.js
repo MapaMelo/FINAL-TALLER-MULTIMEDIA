@@ -26,33 +26,7 @@ const elementos = [
     "https://archive.org/details/1_20251127_20251127_1225/video8.mp4",
     "https://archive.org/details/1_20251127_20251127_1225/video9.mp4",
 
-    "carta/f1.jpg",
-    "carta/f2.jpg",
-    "carta/f3.jpg",
-    "carta/f4.JPG",
-    "carta/f5.JPG",
-    "carta/f6.JPG",
-    "carta/f7.JPG",
-    "carta/f8.jpeg",
-    "carta/f9.JPG",
-    "carta/f10.jpeg",
-    "carta/f11.JPG",
-    "carta/f12.JPG",
-    "carta/f13.JPG",
-    "carta/f14.JPG",
-
-    "carta/a1.mp3",
-    "carta/a2.mp3",
-    "carta/a3.mp3",
-    "carta/a4.mp3",
-    "carta/a6.mp3",
-    "carta/a7.mp3",
-    "carta/a8.mp3",
-    "carta/a9.mp3",
-    "carta/a10.mp3",
-    "carta/a11.mp3",
-    "carta/a12.mp3",
-    "carta/a13.mp3"
+    
 ];
 
 function Interaccion(elem) {
