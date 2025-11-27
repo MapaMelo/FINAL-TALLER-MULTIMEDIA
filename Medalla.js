@@ -12,17 +12,17 @@ Boton.addEventListener("mouseup", () => {
 })
 
 const elementos = [
-    "medalla/video1.MP4",
-    "medalla/video2.mp4",
-    "medalla/video3.mp4",
-    "medalla/video4.mp4",
-    "medalla/video5.mp4",
-    "medalla/video6.mp4",
-    "medalla/video7.mp4",
-    "medalla/video8.mp4",
-    "medalla/video9.mp4",
-    "medalla/video10.mp4",
-    "medalla/video11.mp4",
+    "https://archive.org/download/video8_202511/video1.MP4",
+    "https://archive.org/download/video8_202511/video2.mp4",
+    "https://archive.org/download/video8_202511/video3.mp4",
+    "https://archive.org/download/video8_202511/video4.mp4",
+    "https://archive.org/download/video8_202511/video5.mp4",
+    "https://archive.org/download/video8_202511/video6.mp4",
+    "https://archive.org/download/video8_202511/video7.mp4",
+    "https://archive.org/download/video8_202511/video8.mp4",
+    "https://archive.org/download/video8_202511/video9.mp4",
+    "https://archive.org/download/video8_202511/video10.mp4",
+    "https://archive.org/download/video8_202511/video11.mp4",
 
     "medalla/f1.jpg",
     "medalla/f2.PNG",
