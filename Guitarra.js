@@ -12,15 +12,15 @@ Boton.addEventListener("mouseup", () => {
 })
 
 const elementos = [
-    "guitarra/video1.mp4",
-    "guitarra/video2.mp4",
-    "guitarra/video3.mp4",
-    "guitarra/video4.mp4",
-    "guitarra/video5.mp4",
-    "guitarra/video6.mp4",
-    "guitarra/video7.mp4",
-    "guitarra/video8.mp4",
-    "guitarra/video9.mp4",
+    "https://archive.org/download/video9_202511/video1.mp4",
+    "https://archive.org/download/video9_202511/video2.mp4",
+    "https://archive.org/download/video9_202511/video3.mp4",
+    "https://archive.org/download/video9_202511/video4.mp4",
+    "https://archive.org/download/video9_202511/video5.mp4",
+    "https://archive.org/download/video9_202511/video6.mp4",
+    "https://archive.org/download/video9_202511/video7.mp4",
+    "https://archive.org/download/video9_202511/video8.mp4",
+    "https://archive.org/download/video9_202511/video9.mp4",
 
     "guitarra/f1.jpg",
     "guitarra/f2.PNG",
